@@ -1,9 +1,10 @@
 # CustomExplorer-Multi-Threading
 
-Task
+### Task
 It is necessary to develop an application for Windows OS that allows you to recursively enumerate 
 all nested subdirectories and files for the specified directory, saving the results to a file in XML format.
-Specification
+
+### Specification
 1. For each subdirectory and file, the XML file must contain: 
 name, creation date, modification date, last access date, attributes, 
 size (for files only), 
